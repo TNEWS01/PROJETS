@@ -1,0 +1,8 @@
+# Fichier .gitignore pour permettre d'exclure des fichiers et des répertoire de l'index Git
+ 
+env/*
+__pycache__/*
+data/*
+log/*
+prj_01/Config.ini
+
