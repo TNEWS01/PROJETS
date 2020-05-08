@@ -5,4 +5,7 @@ __pycache__/*
 data/*
 log/*
 prj_01/Config.ini
+*.bak
+*.orig
+
 
