@@ -5,4 +5,7 @@
 =======
 
 # Premiere modif sur branche test3
+<<<<<<< HEAD
 >>>>>>> Premiere modif sur branche test3
+=======
+# Deusieme modif sur branche test3
