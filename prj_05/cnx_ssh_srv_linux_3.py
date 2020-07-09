@@ -5,7 +5,7 @@
 # -------------------
 
 # Note 1 : origin/master
-# Note 2 : TESTS
+# Note 2 : origin/master
 # Note 3 : TESTS
 # Note 4 : TESTS
 # Note 5 : TESTS
