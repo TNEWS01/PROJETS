@@ -11,6 +11,7 @@
 # Note 5 : TESTS
 # Note 6 : TESTS
 # Note 7 : TESTS
+# Note 8 : TESTS
 
 # Import des Modules
 # -------------------
