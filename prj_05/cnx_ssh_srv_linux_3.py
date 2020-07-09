@@ -9,7 +9,7 @@
 # Note 3 : TESTS
 # Note 4 : TESTS
 # Note 5 : TESTS
-# Note 6 : origin/master
+# Note 6 : TESTS
 # Note 7 : origin/master
 
 # Import des Modules
