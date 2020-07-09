@@ -9,4 +9,5 @@ prj_01/Config.ini
 *.bak
 *.orig
 
-
+*/lib/__pycache__/*
+*/.idea/*
