@@ -4,7 +4,8 @@
 # v 1.0
 # -------------------
 
-# Note origin/master
+# Note 1 : origin/master
+# Note 2 : origin/master
 
 # Import des Modules
 # -------------------
