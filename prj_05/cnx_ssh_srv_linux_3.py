@@ -34,7 +34,7 @@ if __name__ == '__main__':
 	pwdssh = vmcfg[vmname]['pwdssh']
 	portssh = vmcfg[vmname]['portssh']
 
-	cnx1 = SSHConnection(hostssh,userssh,pwdssh,portssh)
+	cnx1 = SSHConnection(hostssh, userssh, pwdssh, portssh)
 
 	# Connection au serveur distant
 	cnx1.connectssh()
@@ -53,7 +53,7 @@ if __name__ == '__main__':
 
 	numcmd = int(1)
 	for command in listcommandes:
-		cnx1.execcommandssh(command,numcmd)
+		cnx1.execcommandssh(command, numcmd)
 		numcmd += 1
 		sep1(20)
 
